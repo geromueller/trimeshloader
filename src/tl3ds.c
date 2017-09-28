@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2007 Gero Mueller <gero.mueller@cloo.de>
+ * Copyright (c) 2007-2017 Gero Mueller <post@geromueller.de>
  *
  * This software is provided 'as-is', without any express or implied
  * warranty. In no event will the authors be held liable for any damages

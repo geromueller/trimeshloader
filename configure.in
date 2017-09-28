@@ -1,5 +1,5 @@
 AC_PREREQ(2.62)
-AC_INIT(trimeshloader, 0.1.0, gero.mueller@cloo.de)
+AC_INIT(trimeshloader, 1.0.0, post@geromueller.de)
 AC_CONFIG_SRCDIR([src/trimeshloader.c])
 AC_CONFIG_HEADERS([config.h])
 LT_INIT

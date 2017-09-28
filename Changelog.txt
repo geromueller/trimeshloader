@@ -1,3 +1,5 @@
+*** RELEASE 1.0.0
+
 2008/06/14 - Gero Mueller
 
 	* added autoconf files

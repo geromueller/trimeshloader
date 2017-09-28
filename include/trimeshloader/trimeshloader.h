@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2007 Gero Mueller <gero.mueller@cloo.de>
+ * Copyright (c) 2007-2017 Gero Mueller <post@geromueller.de>
  *
  * This software is provided 'as-is', without any express or implied
  * warranty. In no event will the authors be held liable for any damages
@@ -19,13 +19,6 @@
  *
  *    3. This notice may not be removed or altered from any source
  *    distribution.
- */
-
-/** \mainpage trimeshloader-0.1.0
- * \section project_page Project Page
- * \url http://sourceforge.net/projects/trimeshloader
- * \section website Website with tutorials
- * \url http://trimeshloader.sourceforge.net
  */
 
 /**
